@@ -2,6 +2,6 @@
   "latestVersion": "1.2",
   "minSupportedVersion": "1.0",
   "forceUpdate": true,
-  "apkUrl": "https://github.com/sebezsystems/besh-bingo-cartela-updates/releases/app-release.apk",
+  "apkUrl": "https://github.com/sebezsystems/besh-bingo-cartela-updates/releases/download/v1.2/app-release.apk",
   "releaseNotes": "Version 1.2: Added additional changes."
 }
